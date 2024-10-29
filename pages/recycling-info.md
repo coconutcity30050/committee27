@@ -49,6 +49,7 @@ permalink: "/recycling-info/"
     <td>   早上清運   </td>
     <td>             </td>
     <td>   早上清運   </td> 
+    <td>             </td>     
   </tr>
   <tr>   
     <td>   複橙清潔   </td> 
@@ -57,7 +58,8 @@ permalink: "/recycling-info/"
     <td>  2位清潔人員  </td>
     <td> 1/2位清潔人員 </td>
     <td>  2位清潔人員  </td>
-    <td>  1位清潔人員  </td> 
+    <td>  1位清潔人員  </td>
+    <td>  1位清潔人員  </td>      
   </tr>   
 </table>
 

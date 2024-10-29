@@ -12,7 +12,7 @@ permalink           : "/committe-members/"
 ## 椰城社區第27屆管理委員
 
 ### 各棟委員名單
-* ST棟： 孟秀芳
+* ST棟： 孟秀芳(配偶陳錦生代理)
 * A1棟： 洪堯宇
 * A2棟： 陳俊傑
 * B1棟： 曾培勝
@@ -40,7 +40,7 @@ permalink           : "/committe-members/"
 
 <tr>
 <td> 主任委員 </td>
-<td> TBD </td>   
+<td> 郭子仁 </td>   
 <td> 對外代表管理委員會,並依管理委員會決議執行規定事項 </td>
 <td> 擔任區權會召集人, 召開每月至少一次會議, 或遇重大事故召開臨時會議 </td>
 <td>全部合約</td>
@@ -48,7 +48,7 @@ permalink           : "/committe-members/"
 
 <tr>
 <td> 副主委委員 </td>
-<td> TBD </td> 
+<td> 陳錦生 </td> 
 <td> 輔佐主任委員執行業務，於主任委員因故不能行使職權時代理其職務 </td>
 <td> 協助主委處理社區各項事務,保管社區大印 </td>
 <td> 社區物業/保全/清潔/法務等合約 </td>
@@ -56,7 +56,7 @@ permalink           : "/committe-members/"
 
 <tr>
 <td> 財務委員 </td>
-<td> TBD </td>    
+<td> 張麗君 </td>    
 <td> 掌管公共基金、管理費、使用償金等之收取、保管、運用及支出等事務</td>
 <td> 每月財報,零用金明細,社區帳戶出納,定存單之監管 </td>
 <td> 簽核支票/社區金融帳戶/出納流程 </td>
@@ -64,7 +64,7 @@ permalink           : "/committe-members/"
 
 <tr>
 <td> 監察委員 </td>
-<td> TBD </td> 
+<td> 洪堯宇 </td> 
 <td> 監督管理委員會一切事務</td>
 <td> 社區事務執行,社區規約,管理辦法,管委會規章制度之檢討與管理 </td>
 <td> 全部合約, 規範,流程</td>
@@ -72,7 +72,7 @@ permalink           : "/committe-members/"
 
 <tr>
 <td> 安全委員 </td>
-<td> TBD </td>       
+<td> 曾培勝 </td>       
 <td> 處理消防與安全相關問題 </td>
 <td> 監督消防安全, 門禁管理, 守望相助, 社區改建/違建事務, 社區公開活動及其他有關安全事務 </td>
 <td> 機電合約及弱電合約 </td>   
@@ -80,7 +80,7 @@ permalink           : "/committe-members/"
 
 <tr>
 <td> 設備委員 </td>
-<td> TBD </td>       
+<td> 陳重維 </td>       
 <td> 處理社區設備相關問題 </td>
 <td> 管理與維護社區所有設備 </td>
 <td> 維修保固合約與相關規範 </td>
@@ -88,7 +88,7 @@ permalink           : "/committe-members/"
    
 <tr>
 <td> 網路委員 </td>
-<td> TBD </td>       
+<td> 陳俊傑 </td>       
 <td> 處理社區電腦與網路相關問題 </td>
 <td> 監護電腦,網路,監視器等各類電子設備, 社區網頁與雲端平台 </td>
 <td> 電腦與網路服務合約 </td>
@@ -96,7 +96,7 @@ permalink           : "/committe-members/"
    
 <tr>
 <td> 環保委員 </td>
-<td> TBD </td>       
+<td> 林翠微 </td>       
 <td> 處理社區環境衛生與清潔回收相關問題 </td>
 <td> 監督環境衛生,社區整潔及垃圾回收等事宜 </td>
 <td> 清潔/回收等相關合約與規範 </td>
@@ -104,7 +104,7 @@ permalink           : "/committe-members/"
    
 <tr>
 <td> 契約委員 </td>
-<td> TBD </td>       
+<td> 游鈞華 </td>       
 <td> 處理社區採購相關問題 </td>
 <td> 審查施工廠商價格, 物料採購價格等相關工作 </td>
 <td> 全部合約 </td>
@@ -112,7 +112,7 @@ permalink           : "/committe-members/"
    
 <tr>
 <td> 稽核委員 </td>
-<td> TBD </td>       
+<td> 梁淑賢 </td>       
 <td> 處理帳務相關問題 </td>
 <td> 稽核帳務正確性,採購價格合理性, 稽查工程請款與工程驗收, 稽查社區收欠款事項 </td>
 <td> 估價單/報價單/請款單等 </td>
@@ -121,7 +121,7 @@ permalink           : "/committe-members/"
 </table>
 
 * *以上職掌,皆按椰城社區規約所述編列！*
-* *工作內容可按實際執行業務項目修訂！*
+* *工作內容可按實際執行業務項目增修！*
 
 ---
 

@@ -5,20 +5,15 @@
   class: "security-manager"
   title: "管理中心"
   
-- name: "保家保全: 03-5958339"
-  url: "https://www.twincn.com/item.aspx?no=28646213"
-  class: "security-manager"
-  title: "保全物業"
-  
-- name: "國霖機電: 0983-562-820"
+- name: "國霖機電: 0800-085-200, 03-610-5553, 0983-030-530"
   url: "https://www.goingnet.com.tw/about/contact"
   class: "firesafe-electricial"
   title: "國霖機電"
 
-- name: "複澄企業: 0966-845-511"
-  url: "https://www.twincn.com/item.aspx?no=90346525"
-  class: "clearning-recycling"
-  title: "環保清潔"
+- name: "永大電梯: 02-2701-7063 (報修專線), 0970-035-133 (朱工程師)"
+  url: "https://www.hitachi-yungtay.com.tw/"
+  class: "elevator"
+  title: "永大電梯"  
   
 - name: "消防局金山分隊: 03-6662172"
   url: "https://119.hccg.gov.tw/chhcfd/app/artwebsite?module=artwebsite&id=40&serno=null"

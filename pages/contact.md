@@ -30,13 +30,23 @@ permalink           : "/contact/"
 ---
 ## 合作廠商 (Vendors)
 
-### 保家保全: (03)5958339 (Security & Management)
+### 國霖機電 (Electricical & Firesafe)
+0800-085-200<br>
+03-610-5553<br>
+0983-030-530<br>
 
-### 複澄企業: 0966-845-511 (Cleaning Service)
-
-### 國霖機電: 0983-562-820 (Electricical & Firesafe)
-
+---
 ### 永大電梯: (Elevator maintenance)
+02-2701-7063 (維修專線)<br>
+0970-035-133 朱先生 (永大工程師)<br>
+
+---
+### 複澄企業:  (Cleaning Service)
+0966-845-511<br>
+
+---
+### 保家保全: (Security & Management)
+(03)5958339 <br>
 
 ---
 ## 政府單位 (Government Units)

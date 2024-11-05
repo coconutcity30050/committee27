@@ -25,12 +25,11 @@ widget2:
   text: '
   CoconutCity 30050<br/>
   1. 建構<a href="http://github.com/coconutcity30050">椰城社區網頁</a><br/>
-  2. 架設<a href="https://studio.youtube.com/channel/UCWDGBuGMQvoysG398_kcrhw/content/posts">社區雲端論壇</a><br/>
-  3. 評估社區修繕事項<br/>
-  4. 增訂選舉管理辦法<br/>
-  5. 增訂採購管理辦法<br/>
-  6. 討論垃圾回收改善<br/>
-  7. 召集社區志工小組<br/>
+  2. 評估社區修繕事項<br/>
+  3. 增訂選舉管理辦法<br/>
+  4. 增訂採購管理辦法<br/>
+  5. 討論垃圾回收改善<br/>
+  6. 召集社區志工小組<br/>
   '
   video: '<a href="#" data-reveal-id="videoModal"><img src="https://github.com/coconutcity30050/community27/raw/gh-pages/images/coconutcity30050-nightview-video-459x258.png" width="302" height="182" alt=""/></a>'
 

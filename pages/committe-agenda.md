@@ -26,6 +26,8 @@ permalink           : "/committe-agenda/"
 ### 2024/10/29 8pm 第27屆管委會委員互選
 * 完成委員互選 --> 已於11/1公告管理委員名單<br>
 
+### 2024/11/12 7pm~9pm 11月第一次會議
+
 <ul>
     {% for post in site.tags.agenda %}
     <li><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>

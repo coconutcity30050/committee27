@@ -4,7 +4,7 @@ title:  "2024/11月第一次會議"
 subheadline:  "每月至少一次管理會議"
 teaser: "公開透明,住戶監督"
 categories:
-    - meeting-conclusion
+    - meeting-conclusions
 tags:
     - conclusion
 ---

@@ -32,8 +32,6 @@ permalink           : "/committe-members/"
 <th><strong> 職稱 </strong></th>
 <th><strong> 姓名 </strong></th>   
 <th><strong> 職掌 </strong></th>
-<th><strong> 工作內容 </strong></th>
-<th><strong> 審核事項 </strong></th>
 </tr>
 </thead>
 <tbody>

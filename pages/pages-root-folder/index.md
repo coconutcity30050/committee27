@@ -7,6 +7,7 @@
 layout: frontpage
 header:
   image_fullwidth: header_unsplash_12.jpg
+  
 widget1:
   title: "Blog & Portfolio"
   url: 'https://coconutcity30050.github.io/community/blog/'

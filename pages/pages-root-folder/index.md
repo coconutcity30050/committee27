@@ -58,5 +58,5 @@ widget3:
   <a class="close-reveal-modal">&#215;</a>
 </div>
 
-  <p><img width="25" height="25" src="https://github.com/coconutcity30050/community/raw/gh-pages/images/coconutcity_address_map.jpg"</p>
-  <p><img width="15" height="15" src="https://github.com/coconutcity30050/community/raw/gh-pages/images/circleQR.png"></p>
+  <p><img width="50" height="50" src="https://github.com/coconutcity30050/community/raw/gh-pages/images/coconutcity_address_map.jpg"></p>
+  <p><img width="25" height="25" src="https://github.com/coconutcity30050/community/raw/gh-pages/images/circleQR.png"></p>

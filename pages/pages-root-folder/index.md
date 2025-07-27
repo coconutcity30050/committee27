@@ -6,15 +6,15 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: coconutcity_frontview_1600x503.jpg
+  image_fullwidth: header_unsplash_12.jpg
 widget1:
   title: "Blog & Portfolio"
-  url: 'http://coconutcity30050.github.io/community/blog/'
+  url: 'https://coconutcity30050.github.io/community/blog/'
   image: widget-1-302x182.jpg
   text: 'Every good portfolio website has a blog with fresh news, thoughts and develop&shy;ments of your activities. <em>Feeling Responsive</em> offers you a fully functional blog with an archive page to give readers a quick overview of all your posts.'
 widget2:
   title: "Why use this theme?"
-  url: 'http://coconutcity30050.github.io/community/info/'
+  url: 'https://coconutcity30050.github.io/community/info/'
   text: '<em>Feeling Responsive</em> is heavily customizable.<br/>1. Language-Support :)<br/>2. Optimized for speed and it&#39;s responsive.<br/>3. Built on <a href="http://foundation.zurb.com/">Foundation Framework</a>.<br/>4. Seven different Headers.<br/>5. Customizable navigation, footer,...'
   video: '<a href="#" data-reveal-id="videoModal"><img src="http://coconutcity30050.github.io/community/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""/></a>'
 widget3:
@@ -51,9 +51,4 @@ homepage: true
     <iframe width="1280" height="720" src="https://www.youtube.com/embed/3b5zCFSmVvU" frameborder="0" allowfullscreen></iframe>
   </div>
   <a class="close-reveal-modal">&#215;</a>
-</div>
-
-<div>
-  <p><img width="25%" height="25%" src="https://github.com/coconutcity30050/community/raw/gh-pages/images/coconutcity_address_map.jpg"></p>
-  <p><img width="25%" height="25%" src="https://github.com/coconutcity30050/community/raw/gh-pages/images/circleQR.png"></p>
 </div>

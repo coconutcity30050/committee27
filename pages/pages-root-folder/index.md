@@ -19,7 +19,7 @@ widget1:
 widget2:
   title: "114年管理費收支說明"
   url: 'https://coconutcity30050.my.canva.site/'
-  image: coconutcity_114_annual_finanical_report.png
+  image: coconutcity_114_annual_financial_report.png
   text: '財務簡報：社區管理費收支統計表，社區修繕費用估算表，並說明管理費計算方式。'
 #  video: '<a href="#" data-reveal-id="videoModal"><img src="http://coconutcity30050.github.io/community/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""/></a>'
   

@@ -56,8 +56,8 @@ widget3:
 #    <iframe width="1280" height="720" src="https://www.youtube.com/embed/3b5zCFSmVvU" frameborder="0" allowfullscreen></iframe>
 #</div>
   
-#  <a class="close-reveal-modal">&#215;</a>
-#</div>
+  <a class="close-reveal-modal">&#215;</a>
+</div>
 
 <div>  
   <p><img width="25" height="25" src="https://github.com/coconutcity30050/community/raw/gh-pages/images/coconutcity_address_map.jpg"</p>

@@ -15,6 +15,7 @@ permalink           : "/contact/"
 (Office Time: Mon. ~ Thu.) <br>
 Mon.~Thu.: **上午：** 09:00 ~ 12:00  **下午：** 13:00 ~ 18:00<br>
 Friday   : **下午：** 13:00 ~ 18:00  **晚上：** 19:00 ~ 21:00<br>
+
 *國定假日與例假日休息 ！* <br>
 
 ---
@@ -58,10 +59,7 @@ Friday   : **下午：** 13:00 ~ 18:00  **晚上：** 19:00 ~ 21:00<br>
 ### [新竹市政府](https://www.hccg.gov.tw/ch/home.jsp?id=46&parentpath=0,7) (03)5216121 （City Government)
 
 ---
-## 社區網頁 (Community webpage) QR codes
-
-<br>
+## 社區網頁 (Community webpage) 
 <p>
-<img src="https://github.com/coconutcity30050/community/raw/gh-pages/assets/img/websiteQR.png">
-<img src="https://github.com/coconutcity30050/community/raw/gh-pages/assets/img/circleQR.png">
+<img width="15%" height="15% src="https://github.com/coconutcity30050/community/raw/gh-pages/images/circleQR.png">
 </p>

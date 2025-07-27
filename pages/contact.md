@@ -62,6 +62,6 @@ Friday   : **下午：** 13:00 ~ 18:00  **晚上：** 19:00 ~ 21:00<br>
 
 <br>
 <p>
-<img src="https://github.com/coconutcity30050/community27/raw/gh-pages/assets/img/websiteQR.png">
-<img src="https://github.com/coconutcity30050/community27/raw/gh-pages/assets/img/circleQR.png">
+<img src="https://github.com/coconutcity30050/community/raw/gh-pages/assets/img/websiteQR.png">
+<img src="https://github.com/coconutcity30050/community/raw/gh-pages/assets/img/circleQR.png">
 </p>

@@ -51,7 +51,3 @@ homepage: true
   <a class="close-reveal-modal">&#215;</a>
 </div>
 
-<div>
-  <p><img width=25% height=25% src="https://github.com/coconutcity30050/committee27/raw/gh-pages/images/coconutcity_address_map.jpg"></p>  
-  <p><img width=25% height=25% src="https://github.com/coconutcity30050/committee27/raw/gh-pages/images/circleQR.png"></p>  
-</div>

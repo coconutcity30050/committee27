@@ -34,17 +34,15 @@ permalink           : "/contact/"
 0983-030-530<br>
 
 ---
-### 永大電梯: (Elevator maintenance)
+### 日立永大電梯: (Elevator maintenance)
 02-2701-7063 (維修專線)<br>
 0970-035-133 朱先生 (永大工程師)<br>
 
 ---
-### 複澄企業:  (Cleaning Service)
-0966-845-511<br>
+### 潔緣清潔:  (Cleaning Service)
 
 ---
-### 保家保全: (Security & Management)
-(03)5958339 <br>
+### 晶璽國際: (Security & Management)
 
 ---
 ## 政府單位 (Government Units)
@@ -53,10 +51,15 @@ permalink           : "/contact/"
 
 ### 關東橋派出所: (03)5775758 (Police Station)
 
+### 環保局: (03)5368-920 清潔科（03)5388406
+環保局地址：30058 新竹市北區海濱路240號 上班服務時間：08:00~17:00<br>
+
+市民欲清運大型家具或家電，請撥打電話（5388406）向清潔科事先登記<br>
+
+### 都發局使用管理科 (03)5269424 (Community Dept.)
+
 ### [新竹市政府](https://www.hccg.gov.tw/ch/home.jsp?id=46&parentpath=0,7) (03)5216121 （City Government)
 
-#### 都發局使用管理科 (03)5269424 (Community Dept.)
- 
 ---
 ## 社區網頁 (Community webpage) QR codes
 

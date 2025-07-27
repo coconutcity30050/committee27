@@ -8,7 +8,7 @@ header:
     image_fullwidth: "header_drop.jpg"
 ---
 
-#### Github repository [community27](https://github.com/coconutcity30050/community27)<br>
+#### Github repository [community](https://github.com/coconutcity30050/community)<br>
 
 forked from [Phlow/feeling-responsive](https://github.com/Phlow/feeling-responsive)<br>
 

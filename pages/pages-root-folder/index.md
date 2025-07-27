@@ -6,7 +6,7 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: header_unsplash_12.jpg
+  image_fullwidth: coconutcity_frontview_1600x503.jpg
 permalink: /index.html
 homepage: true
 
@@ -14,20 +14,20 @@ widget1:
   title: "公佈欄"
   url: 'https://coconutcity30050.github.io/community/blog/'
   image: widget-1-302x182.jpg
-  text: 'Every good portfolio website has a blog with fresh news, thoughts and develop&shy;ments of your activities. <em>Feeling Responsive</em> offers you a fully functional blog with an archive page to give readers a quick overview of all your posts.'
+  text: '社區公告，每月財報'
   
 widget2:
   title: "114年管理費收支說明"
   url: 'https://coconutcity30050.my.canva.site/'
   image: coconutcity_114_annual_financial_report.png
-  text: '財務簡報：社區管理費收支統計表，社區修繕費用估算表，並說明管理費計算方式。'
+  text: '財務簡報：社區管理費收支統計表，社區修繕費用估算表，及管理費計算方式'
 #  video: '<a href="#" data-reveal-id="videoModal"><img src="http://coconutcity30050.github.io/community/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""/></a>'
   
 widget3:
   title: "管理費計算機"
   url: 'https://coconutcity30050.github.io/FeeCalculator/'
   image: coconutcity_feecalculator.png
-  text: '新制管理費計算為調降每坪費用，車位按坪收費改回車位清潔費，固定支出按坪收費改為部份按戶分攤。'
+  text: '新制管理費計算為調降每坪費用，車位按坪收費改回車位清潔費，固定支出按坪收費改為部份按戶分攤'
 
 #
 # Use the call for action to show a button on the frontpage

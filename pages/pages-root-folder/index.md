@@ -7,7 +7,9 @@
 layout: frontpage
 header:
   image_fullwidth: header_unsplash_12.jpg
-  
+permalink: /index.html
+homepage: true
+
 widget1:
   title: "Blog & Portfolio"
   url: 'https://coconutcity30050.github.io/community/blog/'
@@ -38,13 +40,11 @@ widget3:
 #  url: https://tinyletter.com/feeling-responsive
 #  text: Inform me about new updates and features ›
 #  style: alert
-permalink: /index.html
 
 #
 # This is a nasty hack to make the navigation highlight
 # this page as active in the topbar navigation
 #
-homepage: true
 ---
 
 <div id="videoModal" class="reveal-modal large" data-reveal="">
@@ -52,4 +52,9 @@ homepage: true
     <iframe width="1280" height="720" src="https://www.youtube.com/embed/3b5zCFSmVvU" frameborder="0" allowfullscreen></iframe>
   </div>
   <a class="close-reveal-modal">&#215;</a>
+</div>
+
+<div>
+    <p><img width="25%" height="25%" src="https://github.com/coconutcity30050/community/raw/gh-pages/images/coconutcity_address_map.jpg"</p>
+  <p><img width="25%" height="25%" src="https://github.com/coconutcity30050/community/raw/gh-pages/images/circleQR.png"</p>       
 </div>

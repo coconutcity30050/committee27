@@ -114,7 +114,15 @@ defaults:
       comments: false
       author: rkuo2000     # Default author for posts
 
-
+  -
+    scope:
+      path: ''
+      type: 'posts'
+    values:
+      show_meta: true   # Show metadata for all posts
+      # sidebar:        # Possible values › left, right › by default there will be no sidebar
+      comments: false
+      author: phlow     # Default author for posts
 
 #       _   __            _             __  _
 #      / | / /___ __   __(_)___ _____ _/ /_(_)___  ____

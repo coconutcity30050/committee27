@@ -60,5 +60,5 @@ widget3:
 
 <div>
   <p><img src="https://github.com/coconutcity30050/community/raw/gh-pages/images/coconutcity_address_map.jpg"></p>
-  <p><img width="50" height="50" src="https://github.com/coconutcity30050/community/raw/gh-pages/images/circleQR.png"></p>
+  <p><img width="50%" height="50%" src="https://github.com/coconutcity30050/community/raw/gh-pages/images/circleQR.png"></p>
 </div>

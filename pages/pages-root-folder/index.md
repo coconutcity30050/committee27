@@ -6,7 +6,7 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: header_unsplash_12.jpg
+  image_fullwidth: coconutcity_frontview_1600x503.jpg
 widget1:
   title: "Blog & Portfolio"
   url: 'http://phlow.github.io/feeling-responsive/blog/'
@@ -49,4 +49,9 @@ homepage: true
     <iframe width="1280" height="720" src="https://www.youtube.com/embed/3b5zCFSmVvU" frameborder="0" allowfullscreen></iframe>
   </div>
   <a class="close-reveal-modal">&#215;</a>
+</div>
+
+<div>
+  <p><img width=25% height=25% src="https://github.com/coconutcity30050/committee27/raw/gh-pages/images/coconutcity_address_map.jpg"></p>  
+  <p><img width=25% height=25% src="https://github.com/coconutcity30050/committee27/raw/gh-pages/images/circleQR.png"></p>  
 </div>

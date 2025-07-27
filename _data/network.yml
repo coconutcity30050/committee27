@@ -1,0 +1,26 @@
+- menu_name: "緊急聯絡"
+
+- name: "社區管理中心: 03-5641692"
+  url: "https://github.com/coconutcity30050/community27/contact/"
+  class: "security-manager"
+  title: "管理中心"
+  
+- name: "國霖機電: 0800-085-200, 03-610-5553, 0983-030-530"
+  url: "https://www.goingnet.com.tw/about/contact"
+  class: "firesafe-electricial"
+  title: "國霖機電"
+
+- name: "永大電梯: 02-2701-7063 (報修專線), 0970-035-133 (朱工程師)"
+  url: "https://www.hitachi-yungtay.com.tw/"
+  class: "elevator"
+  title: "永大電梯"  
+  
+- name: "消防局金山分隊: 03-6662172"
+  url: "https://119.hccg.gov.tw/chhcfd/app/artwebsite?module=artwebsite&id=40&serno=null"
+  class: "city-firefighter"
+  title: "消防局"
+  
+- name: "關東橋派出所: 03-5775758"
+  url: "https://www.hccp.gov.tw/second/home.jsp?id=57&parentpath=0,4"
+  class: "city-policestation"
+  title: "警察局"

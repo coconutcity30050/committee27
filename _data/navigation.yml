@@ -1,0 +1,47 @@
+- title: 管理委員會
+  url: "/committe-members/"
+  side: left
+  dropdown:  
+  - title: "成員與職掌"
+    url: "/committe-members/"
+  - title: "會議日期"
+    url: "/committe-agenda/"
+
+- title: 法條與規約
+  url: "/regulations-rules/"
+  side: left
+  dropdown:
+  - title: "中央法規"
+    url: "/law/"
+  - title: "社區規約"
+    url: "/rules/rules/"  
+    
+- title: "財務與紀錄"
+  url: "/finance-reports/"
+  side: left
+  dropdown:
+  - title: "財務報告"
+    url: "/finance-reports/"  
+  - title: "會議紀錄"
+    url: "/meeting-conclusions/"
+    
+- title: "門禁與環保"
+  url: "/assess-recycling/"
+  side: left
+  dropdown:
+  - title: "門禁管制須知"
+    url: "/assess-control/"
+  - title: "垃圾回收須知"
+    url: "/recycling-info/"  
+    
+- title: "社區公告"
+  url: "/bulletin-board/"
+  side: left
+
+- title: "Home"
+  url: "/"
+  side: right
+  
+- title: "Contact"
+  url: "/contact/"
+  side: right

@@ -2,11 +2,15 @@
   url: "/committe-members/"
   side: left
   dropdown:  
-  - title: "成員與職掌"
+  - title: "委員組織"
     url: "/committe-members/"
-  - title: "會議日期"
-    url: "/committe-agenda/"
-
+  - title: "會議紀錄"
+    url: "/committee-meetings/"    
+  - title: "社區公告"
+    url: "/bulletin-board/"
+  - title: "區權會"
+    url: "/community-agenda/"
+  
 - title: 法條與規約
   url: "/regulations-rules/"
   side: left
@@ -16,27 +20,45 @@
   - title: "社區規約"
     url: "/rules/rules/"  
     
-- title: "財務與紀錄"
+- title: "財務報告"
   url: "/finance-reports/"
   side: left
   dropdown:
-  - title: "財務報告"
+  - title: "每月財務"
     url: "/finance-reports/"  
-  - title: "會議紀錄"
-    url: "/meeting-conclusions/"
+  - title: "年度簡報"
+    url: "/finance-reports/" 
+
+- title: "場所設備"
+  url: "/finance-reports/"
+  side: left
+  dropdown:
+  - title: "公共場所"
+    url: "/places/"
+    dropdown:
+    -title: "警衛室"
+     url: "中庭區域"
+    -title: "包裹室"
+     url: "閱覽室"
+    -title: "垃圾間"
+  - title: "住戶樓棟"
+    url: "/places/"
+  - title: "社區設備"
+    url: "/community-equipment/"
+    dropdown:
+    - title: "機電機房"
+      url: "/equipments/electrical-equipments/"
+    - title: "污水機房" 
+      url: "/equipments/sewage/"
+    - title: "消防總機"
+      url: "/equipments/fire-fighting"    
     
-- title: "門禁與環保"
+- title: "垃圾回收"
   url: "/assess-recycling/"
   side: left
   dropdown:
-  - title: "門禁管制須知"
-    url: "/assess-control/"
   - title: "垃圾回收須知"
     url: "/recycling-info/"  
-    
-- title: "社區公告"
-  url: "/bulletin-board/"
-  side: left
 
 - title: "Home"
   url: "/"

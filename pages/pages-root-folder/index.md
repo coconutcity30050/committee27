@@ -6,7 +6,7 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: coconutcity_frontview_1600x503.jpg
+  image_fullwidth: header_unsplash_12.jpg
 widget1:
   title: "Blog & Portfolio"
   url: 'http://phlow.github.io/feeling-responsive/blog/'
@@ -50,4 +50,3 @@ homepage: true
   </div>
   <a class="close-reveal-modal">&#215;</a>
 </div>
-

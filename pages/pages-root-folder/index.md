@@ -50,7 +50,8 @@ homepage: true
   </div>
   <a class="close-reveal-modal">&#215;</a>
 </div>
+
 <div>
-  <p><img width=50% height=50% src="https://github.com/coconutcity30050/community/raw/gh-pages/images/coconutcity_address_map.jpg"></p>
-  <p><img width=50% height=50% src="https://github.com/coconutcity30050/community/blob/gh-pages/images/circleQR.png?raw=true"></p>
+  <p><img width="50%" height="50%" src="https://github.com/coconutcity30050/community/raw/gh-pages/images/coconutcity_address_map.jpg"></p>
+  <p><img width="50%" height="50%" src="https://github.com/coconutcity30050/community/raw/gh-pages/images/circleQR.png"></p>
 </div>

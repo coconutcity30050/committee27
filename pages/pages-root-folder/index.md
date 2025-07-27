@@ -6,7 +6,8 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: header_unsplash_12.jpg
+  image_fullwidth: coconutcity_frontview_1600x503.jpg
+  
   
 #widget1:
 #  title: "Blog & Portfolio"
@@ -54,7 +55,8 @@ homepage: true
   </div>
   <a class="close-reveal-modal">&#215;</a>
 </div>
-
 <p>
+<img width=50% height=50% src="https://github.com/coconutcity30050/committee27/raw/gh-pages/images/%E6%A4%B0%E5%9F%8E%E7%A4%BE%E5%8D%80%E9%96%80%E7%89%8C%E6%88%B6%E8%99%9F%E5%B0%8D%E7%85%A7%E8%A1%A8.jpg">
 <img width=120 height=100 src="https://github.com/coconutcity30050/committee27/raw/gh-pages/assets/img/qr.png">
 </p>
+

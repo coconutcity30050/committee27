@@ -61,5 +61,5 @@ Friday   : **下午：** 13:00 ~ 18:00  **晚上：** 19:00 ~ 21:00<br>
 ---
 ## 社區網頁 (Community webpage) 
 <p>
-<img width="15%" height="15% src="https://github.com/coconutcity30050/community/raw/gh-pages/images/circleQR.png">
+<img width="15" height="15" src="https://github.com/coconutcity30050/community/raw/gh-pages/images/circleQR.png">
 </p>

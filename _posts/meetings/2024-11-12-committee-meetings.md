@@ -1,5 +1,14 @@
-# 椰城社區第 27 屆管理委員會
-## 113 年 11 月第一次會議紀錄
+---
+layout: page
+title:  "113年11月 第一次會議紀錄"
+subheadline:  "會議紀錄"
+teaser: "地點：社區管理中心辦公室"
+categories:
+    - meetings
+tags:
+    - meetings
+    - committee
+---
 
 **時間：** 113/11/12 19:00~20:45
 **地點：** 社區管理中心辦公室

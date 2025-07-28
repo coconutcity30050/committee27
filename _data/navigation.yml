@@ -2,7 +2,7 @@
   url: "/committe-members/"
   side: left
   dropdown:  
-  - title: "委員組織"
+  - title: "成員職掌"
     url: "/committe-members/"
   - title: "會議紀錄"
     url: "/committee-meetings/"    
@@ -29,12 +29,11 @@
   - title: "年度簡報"
     url: "/finance-reports/" 
 
-- title: "場所設備"
+- title: "場所與設備"
   url: "/finance-reports/"
   side: left
   dropdown:
   - title: "公共場所"
-    url: "/places/"
     dropdown:
     - title: "中庭區域"
       url: "/places/"
@@ -48,37 +47,16 @@
       url: "/recycling-room/"      
   - title: "住戶樓棟"
     url: "/floors/"
-    dropdown: 
-    - title: "A1棟"
-      url: "/floors/floor-A1"
-    - title: "A2棟"
-      url: "/floors/floor-A2"      
-    - title: "B1棟"
-      url: "/floors/floor-B1"
-    - title: "B2棟"
-      url: "/floors/floor-B2"
-    - title: "C1棟"
-      url: "/floors/floor-C1"
-    - title: "C2棟"
-      url: "/floors/floor-C2"      
-    - title: "D1棟"
-      url: "/floors/floor-D1"
-    - title: "D2棟"
-      url: "/floors/floor-D2"
-    - title: "E棟"
-      url: "/floors/floor-E"
   - title: "社區設備"
-    url: "/community-equipment/"
     dropdown:
     - title: "機電機房"
-      url: "/equipments/electrical-equipments/"
+      url: "/equipment-electrical"
     - title: "污水機房" 
-      url: "/equipments/sewage/"
+      url: "/equipments-sewage/"
     - title: "消防總機"
-      url: "/equipments/fire-fighting"    
+      url: "/equipments-firefighting"    
     
-- title: "垃圾回收"
-  url: "/assess-recycling/"
+- title: "衛生與環保"
   side: left
   dropdown:
   - title: "垃圾回收須知"

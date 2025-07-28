@@ -28,7 +28,7 @@ permalink           : "/committe-members/"
 <td> 主任委員 </td>
 <td> 郭子仁 </td>   
 <td> E棟 </td>
-<td> 對外代表管理委員會,管委會會議召集人 </td>
+<td> 對外代表管理委員會，管委會會議召集人 </td>
 </tr>
 
 <tr>

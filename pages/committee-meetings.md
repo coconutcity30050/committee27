@@ -6,7 +6,7 @@ subheadline         : "恪守規約, 委員有責"
 teaser              : "一切共識決議,依管理委員會決議執行規定事項"
 header:
    image_fullwidth  : "header_unsplash_3.jpg"
-permalink           : "/committe-meetings/"
+permalink           : "/committee-meetings/"
 ---
 
 ## 會議須知

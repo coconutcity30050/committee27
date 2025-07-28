@@ -16,10 +16,10 @@ permalink           : "/committe-members/"
 <table>
 <thead>
 <tr>
-<th><strong> 職稱 </strong></th>  
-<th><strong> 姓名 </strong></th>
-<th><strong> 棟別 </strong></th>     
-<th><strong> 職掌 </strong></th>
+<th><strong> 職  稱 </strong></th>  
+<th><strong> 姓  名 </strong></th>
+<th><strong> 棟  別 </strong></th>     
+<th><strong> 職  掌 </strong></th>
 </tr>
 </thead>
 <tbody>

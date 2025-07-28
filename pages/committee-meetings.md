@@ -21,7 +21,7 @@ permalink           : "/committee-meetings/"
 ## 會議決議
 
 <ul>
-    {% for post in site.tags.meeting-conclusions %}
+    {% for post in site.tags.committee-meetings %}
     <li><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
 </ul>

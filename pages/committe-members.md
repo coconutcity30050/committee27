@@ -96,8 +96,6 @@ permalink           : "/committe-members/"
 </tbody>
 </table>
 
-* *以上職掌,皆按椰城社區規約所述編列！*
-
 ---
 
 

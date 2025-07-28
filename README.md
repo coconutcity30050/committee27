@@ -1,4 +1,9 @@
-
+1. For from https://github.com/Phlow/feeling-responsive
+2. Settings > Pages > set Branch to [gh-pages] & Save
+3. _config.yml : modify path to coconutcity30050.github.io
+4. Actions > [New Workflow] create Jekyll workflow
+5. add .github/workflows/jekyll.yml & edit cache-verison : 1
+   
 ## A Responsive Jekyll Theme: *Feeling Responsive*
 
 Do you want to get to know *Feeling Responsive*? Than check it out first and have a look on its home at  <http://phlow.github.io/feeling-responsive/>.

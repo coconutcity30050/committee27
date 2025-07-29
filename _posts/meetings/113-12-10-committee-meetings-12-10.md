@@ -2,7 +2,7 @@
 layout: page
 title:  "113年12月 第一次會議紀錄"
 subheadline:  "會議紀錄"
-teaser: "地點：社區管理中心辦公室"
+teaser: "每月召開至少一次會議, 依管理委員會決議執行規定事項"
 categories:
     - meetings
 tags:

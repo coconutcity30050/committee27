@@ -8,16 +8,6 @@ header:
    image_fullwidth  : "header_unsplash_3.jpg"
 permalink           : "/committee-meetings/"
 ---
-
-## 會議須知
-
-### 社區規約規定如下：
-
-1. 每月召開至少一次會議
-
-2. 依管理委員會決議執行規定事項
-
----
 ## 會議決議
 
 <ul>

@@ -3,7 +3,7 @@
   side: left
   dropdown:  
   - title: "成員職掌"
-    url: "/committe-members/"
+    url: "/committee-members/"
   - title: "會議紀錄"
     url: "/committee-meetings/"    
   - title: "社區公告"

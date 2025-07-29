@@ -20,7 +20,7 @@ tags:
 
 ---
 ## 壹、主席報告:
-Jitsi Meet ([https://meet.jit.si/CoconutCity30050](https://meet.jit.si/CoconutCity30050))
+**線上觀看：** Jitsi Meet ([https://meet.jit.si/CoconutCity30050](https://meet.jit.si/CoconutCity30050))
 
 ---
 ## 貳、議題討論:

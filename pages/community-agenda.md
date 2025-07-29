@@ -6,9 +6,8 @@ subheadline         : "恪守規約, 委員有責"
 teaser              : "區分所有權人會議由本公寓大廈全體區分所有權人組成"
 header:
    image_fullwidth  : "header_unsplash_12.jpg"
-permalink           : "/agenda/"
+permalink           : "/community-agenda/"
 ---
-
 ## 區分所有權人會議 （區權會）
 
 ### [社區規約](https://coconutcity30050.github.io/community/rules/rules/) 第三條區分所有權人會議

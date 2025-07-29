@@ -6,7 +6,7 @@ subheadline         : "恪守規約, 委員有責"
 teaser              : "區分所有權人會議由本公寓大廈全體區分所有權人組成"
 header:
    image_fullwidth  : "header_unsplash_12.jpg"
-permalink           : "/community-agenda/"
+permalink           : "/agenda/"
 ---
 
 ## 區分所有權人會議 （區權會）

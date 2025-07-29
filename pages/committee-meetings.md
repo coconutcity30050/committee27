@@ -8,12 +8,14 @@ header:
    image_fullwidth  : "header_unsplash_3.jpg"
 permalink           : "/committee-meetings/"
 ---
-## 會議決議
-
+## 會議紀錄
+<br>
+<h3>
 <ul>
     {% for post in site.tags.meetings %}
     <li><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
 </ul>
+</h3>
 
 ---

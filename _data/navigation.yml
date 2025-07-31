@@ -21,13 +21,13 @@
     url: "/rules/rules/"  
     
 - title: "財務報告"
-  url: "/finance-reports/"
+  url: "/finance-annual/"
   side: left
   dropdown:
   - title: "每月財務"
     url: "/finance-reports/"  
   - title: "年度簡報"
-    url: "/finance-reports/" 
+    url: "/finance-annual/" 
 
 - title: "場所與設備"
   url: "/finance-reports/"

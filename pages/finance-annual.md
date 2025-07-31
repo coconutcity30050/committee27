@@ -21,7 +21,7 @@ permalink: "/finance-annual/"
 ### 社區修繕費用估算表
 ![](https://github.com/coconutcity30050/community/raw/gh-pages/images/114_community_spending_summary.png)
 
-### 頂樓防水工程費用估算**<br>
+### 頂樓防水工程費用估算
 ![](https://github.com/coconutcity30050/community/raw/gh-pages/images/114_rootop_waterproofing_summary.png)
 
 ---

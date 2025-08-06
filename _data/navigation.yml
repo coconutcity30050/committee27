@@ -34,6 +34,7 @@
   side: left
   dropdown:
   - title: "公共場所"
+    url: "/public-places/"
     dropdown:
     - title: "中庭區域"
       url: "/places/"
@@ -46,6 +47,7 @@
     - title: "垃圾回收間"
       url: "/recycling-room/"
   - title: "社區設備"
+    url: "/community-equipments/"
     dropdown:
     - title: "機電機房"
       url: "/equipment-electrical"

@@ -37,7 +37,7 @@
     url: "/atrium/"
   - title: "警衛室"
     url: "/guard-house/" 
-  - title: "管理中心辦公室"
+  - title: "辦公室"
     url: "/manager-office/" 
   - title: "包裹室"
     url: "/parcel-room/"

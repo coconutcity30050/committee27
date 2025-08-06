@@ -29,34 +29,30 @@
   - title: "年度簡報"
     url: "/finance-annual/" 
 
-- title: "場所與設備"
+- title: "公共場所"
   url: "/public-places/"
   side: left
   dropdown:
-  - title: "公共場所"
-    url: "/public-places/"
-    side: left
-    dropdown:
-    - title: "中庭區域"
-      url: "/places/"
-    - title: "警衛室"
-      url: "/security/" 
-    - title: "包裹室"
-      url: "/packages/"
-    - title: "閱覽室"
-      url: "/study-room/"
-    - title: "垃圾回收間"
-      url: "/recycling-room/"
-  - title: "社區設備"
-    url: "/community-equipments/"
-    side: left
-    dropdown:
-    - title: "機電機房"
-      url: "/equipment-electrical"
-    - title: "污水機房" 
-      url: "/equipments-sewage/"
-    - title: "消防總機"
-      url: "/equipments-firefighting"    
+  - title: "中庭區域"
+    url: "/atrium/"
+  - title: "警衛室"
+    url: "/guardhouse/" 
+  - title: "包裹室"
+    url: "/parcel-room/"
+  - title: "閱覽室"
+    url: "/reading-room/"
+  - title: "垃圾回收間"
+    url: "/garbage-recycling/"
+- title: "社區設備"
+  url: "/community-equipments/"
+  side: left
+  dropdown:
+  - title: "機電機房"
+    url: "/electrical-equipment"
+  - title: "污水機房" 
+    url: "/sewage-equipment/"
+  - title: "消防總機"
+    url: "/firefighting-equipment/"    
     
 - title: "衛生與環保"
   side: left

@@ -30,11 +30,12 @@
     url: "/finance-annual/" 
 
 - title: "場所與設備"
-  url: "/finance-reports/"
+  url: "/public-places/"
   side: left
   dropdown:
   - title: "公共場所"
     url: "/public-places/"
+    side: left
     dropdown:
     - title: "中庭區域"
       url: "/places/"
@@ -48,6 +49,7 @@
       url: "/recycling-room/"
   - title: "社區設備"
     url: "/community-equipments/"
+    side: left
     dropdown:
     - title: "機電機房"
       url: "/equipment-electrical"

@@ -44,9 +44,7 @@
     - title: "閱覽室"
       url: "/study-room/"
     - title: "垃圾回收間"
-      url: "/recycling-room/"      
-  - title: "住戶樓棟"
-    url: "/floors/"
+      url: "/recycling-room/"
   - title: "社區設備"
     dropdown:
     - title: "機電機房"
